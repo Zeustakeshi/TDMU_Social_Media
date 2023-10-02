@@ -7,3 +7,6 @@
 [submodule "TDMU_Social_Media_UI"]
 	path = TDMU_Social_Media_UI
 	url = git@github.com:Zeustakeshi/TDMU_Social_Media_UI.git
+[submodule "TDMU_Social_Media_User_Service"]
+	path = TDMU_Social_Media_User_Service
+	url = git@github.com:Min-Trees/servicedjango.git
