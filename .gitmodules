@@ -10,3 +10,6 @@
 [submodule "TDMU_Social_Media_User_Service"]
 	path = TDMU_Social_Media_User_Service
 	url = git@github.com:Min-Trees/servicedjango.git
+[submodule "TDMU_Social_Media_Post_Service"]
+	path = TDMU_Social_Media_Post_Service
+	url = git@github.com:SoraTL/nckh.git
