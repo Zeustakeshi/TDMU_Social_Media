@@ -1,0 +1,9 @@
+[submodule "TDMU_Social_Media_Auth_service"]
+	path = TDMU_Social_Media_Auth_service
+	url = git@github.com:Zeustakeshi/TDMU_Social_Media_Auth_service.git
+[submodule "TDMU_Social_Media_Api_Gateway"]
+	path = TDMU_Social_Media_Api_Gateway
+	url = git@github.com:Zeustakeshi/TDMU_Social_Media_Api_Gateway.git
+[submodule "TDMU_Social_Media_UI"]
+	path = TDMU_Social_Media_UI
+	url = git@github.com:Zeustakeshi/TDMU_Social_Media_UI.git
